@@ -1,5 +1,6 @@
 # Stata Visualization using Icons | Waffle Plot
-Generating a waffle plot like visualization by using Icons within Stata.
+Generating a waffle plot like visualization by using Icons within Stata.  
+The Do-file for this visualization is attached.
 
 **Note: In order to make this visualization work, you need to install the attached fonts:**
 1. travelcons.ttf
